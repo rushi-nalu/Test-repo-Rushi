@@ -43,7 +43,8 @@
 #include "app_trace.h"
 #include "bsp.h"
 #include "bsp_btn_ble.h"
-
+// comment to be ignored
+// change 1
 #define IS_SRVC_CHANGED_CHARACT_PRESENT  1                                          /**< Include or not the service_changed characteristic. if not enabled, the server's database cannot be changed for the lifetime of the device*/
 
 #define DEVICE_NAME                      "Nordic_Template"                               /**< Name of device. Will be included in the advertising data. */
