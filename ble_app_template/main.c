@@ -10,6 +10,8 @@
  *
  */
 
+// ignore this comment
+
 /** @file
  *
  * @defgroup ble_sdk_app_template_main main.c
